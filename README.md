@@ -1,10 +1,10 @@
-# AirBnB Clone
+# NirvanaNights, an AirBnB Clone
 
 ## Database Schema Design
 
-![airbnb-dbdiagram]
+![dbdiagram]
 
-[airbnb-dbdiagram]: dbDiagram.png
+[dbdiagram]: dbDiagram.png
 
 ## API Documentation
 
